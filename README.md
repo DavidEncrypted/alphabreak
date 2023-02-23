@@ -1,4 +1,4 @@
-# alphabreak
+# Alphabreak
 
-#### Alphabreak is een toepassing van captcha lib.
-Het demonstreerd hoe captcha breken toegepast kan worden. Dit doet het door de captcha's van de deep web market AlphaBay te breken en accounts aan te maken.
+#### Alphabreak is an example application of captcha lib.
+It demonstrates how captcha breaking can be applied. It does this by breaking the captchas of the deep web market AlphaBay and creating fake accounts.
